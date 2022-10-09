@@ -1,0 +1,2 @@
+include ':app', ':camera-lib'
+rootProject.name='USBCamera'
